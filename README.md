@@ -78,15 +78,6 @@ I focus on **automation, infrastructure as code, and cloud best practices**, and
   - DevOps best practices
 
 ---
-
-## 📈 GitHub Activity & Stats
-
-![Prajwal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prajwal8651&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prajwal8651&layout=compact&theme=tokyonight)
-
----
-
 ## 🤝 Let’s Connect
 
 - 💼 LinkedIn: **(https://www.linkedin.com/in/prajwalputtaraju/)**
