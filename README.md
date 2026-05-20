@@ -2,7 +2,7 @@
 🚀 DevOps & Cloud Engineer | AWS | Terraform | CI/CD  
 📍 Bengaluru, India 🇮🇳  
 
-I am an **entry-level DevOps / Cloud Engineer** with strong hands-on experience in **AWS, Terraform, Docker, Kubernetes, and CI/CD pipelines**.  
+I am a **DevOps / Cloud Engineer** with strong hands-on experience in **AWS, Terraform, Docker, Kubernetes, and CI/CD pipelines**.  
 I focus on **automation, infrastructure as code, and cloud best practices**, and actively build real-world projects to strengthen my skills.
 
 ---
@@ -87,8 +87,8 @@ I focus on **automation, infrastructure as code, and cloud best practices**, and
 ---
 
 ### 🔎 Open to Opportunities
-✔ DevOps Engineer (Fresher / Junior)  
+✔ DevOps Engineer 
 ✔ Cloud Engineer  
-✔ Site Reliability Engineer (Entry Level)
+✔ Site Reliability Engineer
 
 ⭐ *If you’re a recruiter or hiring manager, feel free to explore my repositories or connect with me directly.*
