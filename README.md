@@ -9,7 +9,7 @@ I focus on **automation, infrastructure as code, and cloud best practices**, and
 
 ## 🎯 Professional Summary
 
-- 💻 Hands-on **DevOps & Cloud Engineer (Fresher)**
+- 💻 Hands-on **DevOps & Cloud Engineer**
 - ☁️ Strong fundamentals in **AWS Cloud & Infrastructure**
 - 🧱 Experience with **Terraform (IaC)** for scalable infrastructure
 - 🔄 Built **CI/CD pipelines** using Jenkins & GitHub
